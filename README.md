@@ -1,5 +1,4 @@
 ![Matt Jennings Banner](/banner.png)
-### Hi there 👋
 <!--
 **mjennings3/mjennings3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
